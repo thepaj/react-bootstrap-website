@@ -1,0 +1,106 @@
+
+html,
+body {
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+.text-box {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.heading-primary {
+	color: #58a6ff;
+}
+
+.heading-primary-main {
+	display: block;
+	font-size: 75px;
+	font-weight: 500;
+	font-family: 'Abril Fatface', cursive;
+}
+
+
+.heading-primary-sub {
+	color: slategray;
+	display: block;
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.navbar-top {
+	color: #58a6ff;
+}
+
+.jumbotron {
+	background-color: white;
+}
+
+.product-card {
+	height: 15vh;
+	width: 80%;
+	align-content: center;
+	border: none;
+}
+
+.home-row {
+	position: relative;
+	margin-top: 250px;
+	align-content: center;
+	padding-left: 200px;
+	padding-right: 100px;
+}
+
+.card-button {
+	background-color: #58a6ff;
+	border: none;
+}
+
+.component-heading {
+	color: #58a6ff;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.component-container {
+	text-align: center justify;
+}
+
+.contact-container {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.contact-row {
+ height: 400px;
+}
+
+.contact-col {
+	margin-top: 100px;
+}
+
+.sticky-footer {
+	color: #777;
+}
+
+.home-card {
+	background-color: whitesmoke;
+	color: black;
+}
+
+
+
+
+
+
